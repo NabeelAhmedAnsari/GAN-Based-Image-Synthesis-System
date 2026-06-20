@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Model Weights
+*.pth
+
+# Dataset Files
+data/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
